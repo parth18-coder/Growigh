@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Growigh</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="heading_screen_one"> About Us</string>
+    <string name="Description_screen_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
 </resources>
