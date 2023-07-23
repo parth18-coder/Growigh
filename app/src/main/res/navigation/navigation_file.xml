@@ -36,5 +36,14 @@
         android:id="@+id/homeScreenFragment"
         android:name="com.example.growigh.HomeScreenFragment"
         android:label="fragment_home_screen"
-        tools:layout="@layout/fragment_home_screen" />
+        tools:layout="@layout/fragment_home_screen" >
+        <action
+            android:id="@+id/action_homeScreenFragment_to_uploadImageScreen"
+            app:destination="@id/uploadImageScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/uploadImageScreen"
+        android:name="com.example.growigh.UploadImageScreen"
+        android:label="fragment_upload_image_screen"
+        tools:layout="@layout/fragment_upload_image_screen" />
 </navigation>

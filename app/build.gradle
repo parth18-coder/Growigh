@@ -44,4 +44,7 @@ dependencies {
 
     implementation 'androidx.navigation:navigation-fragment-ktx:2.2.2'
     implementation 'androidx.navigation:navigation-ui-ktx:2.2.2'
+
+
+    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
 }
